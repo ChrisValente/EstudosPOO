@@ -1,1 +1,6 @@
 c:\users\netuno\documents\visual studio 2015\Projects\projeto teste\projeto teste\bin\Debug\projeto teste.exe.config
+c:\users\netuno\documents\visual studio 2015\Projects\projeto teste\projeto teste\bin\Debug\projeto teste.exe
+c:\users\netuno\documents\visual studio 2015\Projects\projeto teste\projeto teste\bin\Debug\projeto teste.pdb
+c:\users\netuno\documents\visual studio 2015\Projects\projeto teste\projeto teste\obj\Debug\projeto teste.csprojResolveAssemblyReference.cache
+c:\users\netuno\documents\visual studio 2015\Projects\projeto teste\projeto teste\obj\Debug\projeto teste.exe
+c:\users\netuno\documents\visual studio 2015\Projects\projeto teste\projeto teste\obj\Debug\projeto teste.pdb
